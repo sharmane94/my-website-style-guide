@@ -117,13 +117,13 @@ body {
     text-decoration: underline;
     font-weight: 300;
 }
-.source-code {
+#source-code p {
     font-family: 'Source Code Pro';
 }
-.nunito-sans {
+#nunito-sans p {
     font-family: 'Nunito Sans';
 }
-.poppins {
+#poppins p {
     font-family: 'Poppins';
 }
 #thin {
@@ -145,7 +145,7 @@ h2 {
     font-size: 18px;
     font-family: 'Poppins';
 }
-p {
+p, li {
     font-weight: 400;
     font-size: 14px;
     font-family: 'Poppins';
